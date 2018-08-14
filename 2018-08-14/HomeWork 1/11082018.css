@@ -1,0 +1,55 @@
+
+a{
+    color:black;}
+.Header{
+    height: 380px;
+    border-radius: 5px
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 500
+    
+
+}
+img{
+    height: 248px;
+    width: 200px;
+    
+}
+.Row{
+    height: 250px;
+}
+.Body{
+    width: 338px;
+}
+.Firehose{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif
+}
+.Sample{
+    font-family: 'Times New Roman', Times, serif
+}
+.Sample-title{
+    font-size: 45px;
+    font-weight: 800;
+}
+.Button{
+    border-radius: 20px
+}
+.Large{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold
+}
+.Title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.Heading,.Sub-heading{
+    font-size: 45px;
+    font-weight:500;
+}
+.Subcribe{
+    font-size: 20px
+}
