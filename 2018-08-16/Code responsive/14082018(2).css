@@ -1,0 +1,42 @@
+.Header{
+    height: 136.64px;
+    background-color:crimson
+}
+.Home,.Search{
+    font-size: 25px;
+}
+.Shaw{
+    font-size: 24px;
+    font-weight: bold;
+}
+.Ios,.Android{
+    font-size: 80px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: aliceblue
+}
+@media screen and (max-width: 767px) {
+    .Bongda{
+        width: 250px;
+        height: 140px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .Bongda{
+        width: 250px;
+        height: 136.64px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .Salah{
+        margin-top: 10px
+    }
+}
+@media screen and (max-width: 767px) {
+    .Watch{
+        margin-top: 10px;
+        margin-bottom: 20px
+    }
+}
