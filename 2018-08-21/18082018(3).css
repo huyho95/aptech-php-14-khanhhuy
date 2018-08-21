@@ -1,0 +1,24 @@
+
+.Header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Body-first-Album{
+    font-weight: lighter;
+    font-size: 40px;
+}
+.Body-first-something{
+    font-size: 18px;
+}
+.Image{
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    height: 230px;
+
+}
+.Body-second{
+    padding: 50px;
+}
+.Toggle{
+    font-size: 35px;
+}
