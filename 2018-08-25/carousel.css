@@ -1,0 +1,46 @@
+.Header{
+    height: 55px;
+}
+.Header-left{
+    font-size: 17px;
+}
+.Input{
+    width: 20%
+}
+.Body{
+    margin-top: 100px;
+}
+.Body-rounded{
+    width: 140px;
+    height: 140px;
+}
+.Feature{
+    margin: 85px;
+}
+.Donec{
+    font-size: 19px
+}
+.First{
+    font-size: 45px;
+    font-weight: 400;
+}
+.Thumbnail{
+    width: 450px;
+    height: 450px;
+}
+.Thumbnail-text{
+    font-size: 30px;
+    font-weight: bold;
+    color:white
+}
+#Feature{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.Carousel{
+    height: 460px;
+}
+.Carousel-text{
+    font-size: 20px
+}
