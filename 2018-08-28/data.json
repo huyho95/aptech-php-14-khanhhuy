@@ -1,0 +1,125 @@
+{
+  "message": "welcome to aptech php course",
+  "users": [
+    {
+      "id": 11,
+      "name": "Brandyn Jenkins DVM",
+      "email": "rigoberto.kassulke@example.com",
+      "password": "nf0d&';+3ACY",
+      "created_at": "2018-08-24 11:43:35",
+      "updated_at": "2018-08-24 11:43:35"
+    },
+    {
+      "id": 13,
+      "name": "Nguyen Hai Nam",
+      "email": "cz@gmail.com",
+      "password": "123456",
+      "created_at": "2018-08-24 12:05:50",
+      "updated_at": "2018-08-24 12:05:50"
+    },
+    {
+      "id": 14,
+      "name": "Prof. Elvis Mann V",
+      "email": "rconroy@example.org",
+      "password": "L|^F{L)2^`",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 15,
+      "name": "Daren Davis",
+      "email": "hlabadie@example.org",
+      "password": "4alYWUNlb!I@%ue^pMi",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 16,
+      "name": "Clay Hayes",
+      "email": "djohnson@example.net",
+      "password": "_nNErW_1Qc)d\"eh.zL",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 17,
+      "name": "Tremaine Muller",
+      "email": "kenya89@example.net",
+      "password": "Km.a;q\\'uKL2",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 19,
+      "name": "Nona Conn",
+      "email": "bhaag@example.org",
+      "password": "&obGR%$oUXU\"d<JZt+",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 20,
+      "name": "Mr. Arnaldo Goodwin",
+      "email": "doyle.toni@example.net",
+      "password": "y(Tf3xG",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 21,
+      "name": "Caterina Braun",
+      "email": "sdeckow@example.net",
+      "password": "3q|_EHOcjG5",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 22,
+      "name": "Cathrine Fisher DVM",
+      "email": "libbie.torphy@example.net",
+      "password": "zqjD\\=GV{(&OO",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 23,
+      "name": "Mrs. Jordane Torp",
+      "email": "edwardo.von@example.org",
+      "password": "+RIbzby1Mbp.^",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 24,
+      "name": "Golda Schmeler",
+      "email": "gmcclure@example.com",
+      "password": "z$G;i\\7_J\"cFm)",
+      "created_at": "2018-08-25 11:16:53",
+      "updated_at": "2018-08-25 11:16:53"
+    },
+    {
+      "id": 25,
+      "name": "hihi",
+      "email": "hihi@gmail.com",
+      "password": "hihi",
+      "created_at": "2018-08-25 11:20:07",
+      "updated_at": "2018-08-25 11:20:07"
+    },
+    {
+      "id": 26,
+      "name": "hihiii",
+      "email": "helloo@gmail.com",
+      "password": "ádasd",
+      "created_at": "2018-08-25 11:20:29",
+      "updated_at": "2018-08-25 11:20:29"
+    },
+    {
+      "id": 27,
+      "name": "hello11111111",
+      "email": "asdasd@gmail.cm",
+      "password": "ádasd",
+      "created_at": "2018-08-25 11:20:43",
+      "updated_at": "2018-08-25 11:20:56"
+    }
+  ]
+}
