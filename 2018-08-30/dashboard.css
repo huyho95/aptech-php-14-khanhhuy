@@ -1,0 +1,14 @@
+.Header{
+    height: 50px;
+    background-color: black
+}
+.Body{
+    height: 100%;
+}
+.Body-left-text{
+    font-weight: 500;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+}

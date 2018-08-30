@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="./bootstrap.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="./dashboard.css">
+</head>
+<body>
+    <div class="container-fluid Header">
+        <div class="row h-100">
+            <div class="col-2">
+                <div class="h-100 text-white d-flex justify-content-start align-items-center">
+                <a class="m-0 text-white" href="#">Company name</a>
+                </div>
+            </div>
+            <div class="col-9 p-0">
+                <input type="text" placeholder="Search" class=" h-100 w-100 p-3 border-0 bg-dark">
+            </div>
+            <div class="col-1">
+                <div class="h-100 text-muted d-flex justify-content-center align-items-center">
+                    <p class="m-0">Sign out</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid Body">
+        <div class="row h-100">
+            <div class="col-2 pt-4 border-right">
+                <div class="d-flex flex-column justify-content-between">
+                    <div class="d-flex align-items-center my-1">
+                        <i class="fas fa-home text-primary"></i>
+                        <h6 class="text-primary ml-2 mb-0">DashBoard</h6>
+                    </div>
+                    <div class="Body-left-text">
+                        <div class="d-flex align-items-center my-3">
+                            <i class="far fa-file ml-1 text-secondary"></i>
+                            <div class="ml-2">Orders</div>
+                        </div>
+                        <div class="d-flex align-items-center my-3">
+                            <i class="fas fa-shopping-cart text-secondary"></i>
+                            <div class="ml-2">Products</div>
+                        </div>
+                        <div class="d-flex align-items-center my-3">
+                            <i class="fas fa-user-friends text-secondary"></i>
+                            <div class="ml-2">Customers</div>
+                        </div>
+                        <div class="d-flex align-items-center my-3">
+                            <i class="far fa-chart-bar text-secondary"></i>
+                            <div class="ml-2">Reports</div>
+                        </div>
+                        <div class="d-flex align-items-center my-3">
+                            <i class="fas fa-layer-group text-secondary"></i>
+                            <div class="ml-2">Integrations</div>
+                        </div>
+                    </div>
+
+                    <div class="d-flex justify-content-between align-content-center mt-4">
+                        <div class="Body-left-text text-muted">SAVED REPORTS</div>
+                        <i class="fas fa-plus-circle pt-1 text-muted"></i>
+                    </div>
+                    <div class="Body-left-text">
+                        <div class="d-flex align-items-center my-3">
+                            <i class="far fa-file-alt text-muted"></i>
+                            <div class="ml-2">Current month</div>
+                        </div>
+                        <div class="d-flex align-items-center my-3">
+                            <i class="far fa-file-alt text-muted"></i>
+                            <div class="ml-2">Last quarter</div>
+                        </div>
+                        <div class="d-flex align-items-center my-3">
+                            <i class="far fa-file-alt text-muted"></i>
+                            <div class="ml-2">Social engagement</div>
+                        </div>
+                        <div class="d-flex align-items-center my-3">
+                            <i class="far fa-file-alt text-muted"></i>
+                            <div class="ml-2">Year-end sale</div>
+                        </div>
+                    </div>              
+                </div>
+            </div>
+            <div class="col-10">
+                <h2 class="mt-4">Section title</h2>
+                <div id="js-div-table">
+
+                </div>
+            </div>
+        </div>
+    </div>
+<script src="./jquery.js"></script>
+<script src="./popper.js"></script>
+<script src="./bootstrap.js"></script>
+<script src="./script.js"></script>    
+</body>
+</html>
