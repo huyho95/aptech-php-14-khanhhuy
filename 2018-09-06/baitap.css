@@ -1,0 +1,23 @@
+.Card-img {
+    background: url("https://picsum.photos/200");
+}
+.Card-img-top{
+    background: url("https://picsum.photos/200/300/?gravity=east");
+}
+.Image{
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+}
+.Table-cell{
+    display: table-cell;
+}
+.Image-right-left{
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+.Card-img-body{
+    background-position: center;
+    background-size: cover;
+}
